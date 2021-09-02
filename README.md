@@ -9,5 +9,5 @@
 - [x] hidden states : 1024, 100, 6
 - [x] weight initialize : random
 
-** this task is to classify the traffic signs which are seperate into 6 classes. **
+** this task is to classify the traffic signs which are seperated into 6 classes. **
 
